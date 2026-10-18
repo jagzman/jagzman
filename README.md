@@ -1,4 +1,4 @@
-##Hi there, I'm Jagannath Anoob 👋
+Hi there, I'm Jagannath Anoob 👋
 
 AI & Data Science Graduate | Data Analytics | Machine Learning | Generative AI
 
