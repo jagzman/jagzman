@@ -1,16 +1,19 @@
-## Hi there 👋
+##Hi there, I'm Jagannath Anoob 👋
 
-<!--
-**jagzman/jagzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science Graduate | Data Analytics | Machine Learning | Generative AI
 
-Here are some ideas to get you started:
+I'm an MSc Artificial Intelligence & Data Science graduate passionate about transforming data into meaningful insights and building practical AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on data analysis, machine learning, natural language processing, and Generative AI projects that solve real-world problems. I'm continuously learning, experimenting with new technologies, and building projects to strengthen my skills.
+
+🚀 What I'm Working On
+
+📊 Building data analytics projects using Python, SQL, Excel, and visualization tools.
+
+🤖 Exploring Machine Learning, NLP, Large Language Models (LLMs), and Generative AI.
+
+🧠 Improving my resume screening and candidate ranking system using NLP and AI.
+
+💻 Developing practical projects and building my GitHub portfolio.
+
+📚 Continuously learning new technologies and improving my problem-solving skills.
